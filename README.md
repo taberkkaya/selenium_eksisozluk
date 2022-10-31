@@ -7,7 +7,7 @@ In this project, I printed some random entries related to **Mustafa Kemal ATATÜ
 ## List of Content
 
 * *[eksisozluk.py](https://github.com/taberkkaya/selenium_eksisozluk/blob/main/eksisozluk.py)*
-* *[entries.py](https://github.com/taberkkaya/selenium_eksisozluk/blob/main/entries.txt)*
+* *[entries.txt](https://github.com/taberkkaya/selenium_eksisozluk/blob/main/entries.txt)*
 
 ## Requirements
 
